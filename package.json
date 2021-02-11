@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cynthiateeters/test-dependabot#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.17"
   }
 }
