@@ -3,7 +3,7 @@ updates:
   # Keep npm dependencies up to date
   - package-ecosystem: "npm"
     directory: "/"
-    # Check the npm registry for updates at 2am UTC
+    # Check the npm registry for updates at 3pm
     schedule:
       interval: "daily"
       time: "15:00"
