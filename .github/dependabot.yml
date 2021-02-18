@@ -6,4 +6,4 @@ updates:
     # Check the npm registry for updates at 3pm
     schedule:
       interval: "daily"
-      time: "15:00"
+      time: "18:00"
